@@ -1,0 +1,7 @@
+node_modules/
+.env
+logs/
+uploads/
+npm-debug.log*
+.npm-cache/
+lt.log
